@@ -1,0 +1,14 @@
+# Write a program on Calculation of area for a Right Angled Triangle.
+# Input the measureent of base.
+x = int(input("Enter the Value of Base: "))
+# Input the value measurment of height.
+y = int(input('Enter the Value of Height: '))
+# Developing the equation for area calclulation.
+Area= .5*x*y
+# Final output after providing all the values.
+print('Area of the Right Angled Triangle = ', str(Area) , 'square centimeters')
+# The unit of calculation can be changed according to the specfications of calculation.
+Resutls after running the python code:
+Enter the Value of Base: 16
+Enter the Value of Height: 12
+Area of the Right Angled Triangle =  96.0 square centimeters
